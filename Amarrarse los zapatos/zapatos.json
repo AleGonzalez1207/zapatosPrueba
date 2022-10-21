@@ -1,0 +1,19 @@
+{
+    "Amarrar zapatos" : {
+        "instrucciones": "Como amarrarse un zapato",
+        "elementos": {
+            "1": "un zapato",
+            "2": "un cordon"
+        },
+        "paso a paso":{
+            "primer paso": "En condiciones normales consiga un zapato que tenga condrones",
+            "segundo paso": "agarre las puntas del cordon",
+            "tercer paso": "pase una punta del cordon por encima y luego por debajo de la otra punta y apretelo",
+            "cuarto paso": "con una punta haga un circulo",
+            "quinto paso": "pase la otra punta por encima del circulo y sin que el circulo se desarme",
+            "sexto paso": "antes de apretar haga un circulo con la punta que paso por encima del otro  circulo",
+            "septimo paso" : "pase el segundo circulo por debajo de primer ciruculo y aprete hasta que sienta el nudo firme"
+    }
+
+}
+}
